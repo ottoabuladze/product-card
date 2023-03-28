@@ -1,0 +1,113 @@
+*{
+padding:0;
+margin:0;
+}
+.main{
+ width:600px;
+border-radius: 10px;
+margin: auto;
+background-color: #FFFFFF;
+display: flex;
+margin-top: 112px;
+
+
+}
+body{
+    background-color:#F2EAE2 ;
+
+    
+    
+}
+.mate{
+
+    height: 450px;
+    border-top-left-radius:10px ;
+    border-bottom-left-radius: 10px;
+
+
+}
+.babi{
+
+    color: #6C7289;
+    margin-top: 32px;
+    text-align: left;
+    font-family: 'Fraunces', serif;
+font-family: 'Montserrat', sans-serif;
+
+}
+.anna{
+
+    color: #1C232B;
+    margin-top: 20px;
+    text-align: left;
+    font-family: 'Fraunces', serif;
+    
+    
+}
+.indira{
+    margin-top: 24px;
+    text-align: left;
+    font-family: 'Fraunces', serif;
+font-family: 'Montserrat', sans-serif;
+
+    
+}
+.second{
+    padding:0 32px;
+
+
+
+
+
+
+}
+
+    
+    
+
+.price{ 
+     color:#3D8168;
+     font-weight: 700;
+     font-size: 32px;
+     line-height: 32px;
+     margin-right: 19px;
+     font-family: 'Fraunces', serif;
+}
+.pricediv{
+    display: flex;
+    align-items: center;
+    margin-top: 24px;
+}
+.line{
+    font-weight: 500;
+    line-height:23px ;
+    text-decoration:line-through;
+    color:#6C7289 ;
+    font-family: 'Fraunces', serif;
+font-family: 'Montserrat', sans-serif;
+}
+.cartdiv{
+    width: 100%;
+    background-color: #3D8168;
+    padding:16px 0;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    margin-top: 30px;
+
+}
+.cartdiv:hover{
+    background-color: #1A4032;
+    cursor: pointer;
+}
+.cart{
+    margin-left: 30px;
+    color: #FFFFFF;
+}
+    
+
+
+
+
+
+
